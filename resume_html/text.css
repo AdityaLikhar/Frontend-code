@@ -1,0 +1,39 @@
+
+
+.text{
+    text-align: center;
+    /* Text aligh center me rheta hai */
+
+    color:cornflowerblue;
+
+    text-decoration-line: overline ;
+    /* Text decoration line se hum line upar de skate hai */
+
+    text-decoration-thickness: 5px;
+    /* text decoration thickness line ko thin thik krne ke liye use hota hai */
+    line-height: 30px;
+    letter-spacing: 1px;
+    word-spacing:10px ;
+    
+
+}
+.text1{
+    text-align: start;
+    /* Text aligh start me rheta hai */
+
+    color: rgb(150, 217, 213);
+    text-decoration-line: line-through;
+    
+    text-decoration-color: blanchedalmond;
+    /* Text decoration color se hum line ko color de skate hai */
+}
+.text2{
+    text-align: end;
+    /*  Text aligh end me rheta hai*/
+    color: rgb(214, 176, 212);
+    text-decoration-line: underline;
+    text-decoration-style: double ;
+
+    /* text decoration style se hum line ko double single kr sakte hai */
+    /* text-decoration-line: line through,overline,underline; */
+}

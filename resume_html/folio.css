@@ -1,0 +1,92 @@
+
+
+.adi{
+    display: flex;
+    gap: 15%;
+    margin-top: 5%;
+    margin-left: 5%;
+    background-color: rgb(239,239,239);
+    padding-left: 20px;
+    /* line */
+    /*height*/
+
+}
+.Hello{
+    margin-left: 15%;
+}
+
+.img1{
+    width: 20%;
+    
+}
+.img{
+    max-width: 100%;
+    border-radius: 53%;
+
+    
+}
+.hello{
+    font-size: 20px;
+}
+
+h3{
+    font-size: 30px;
+}
+.formal{
+    width: 30%;
+    margin-top: 3%;
+    
+
+}
+.formalimg{
+    max-width: 100%;
+    border-radius: 10%;
+}
+.personal{
+    display: flex;
+    gap: 10%;
+    margin-top: 5%;
+    margin-left: 3%;
+
+}
+.Services{
+    margin-top: 5%;
+
+}
+.Services h3{
+    text-align: center;
+    
+    
+}
+.Services p{
+    text-align: center;
+    margin-top: 0.5rem;
+    font-size: 20px;
+
+}
+
+/* img{
+    width: 100%; */
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3rem;
+}
+h3{
+    margin-right: 100px;
+}
+.h{
+    margin-right: 100px;
+}
+.portfolio h3{
+    text-align: center;
+    padding: 5rem;
+}
+.img3{
+    display: flex;
+    gap: 15%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+    

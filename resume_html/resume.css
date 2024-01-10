@@ -1,0 +1,17 @@
+.adi{
+    border-radius: 74px;
+}
+.font{
+    color: black;
+    font:40px;
+    font-weight: 400;
+    font-family: Rubik Maps;
+}
+.resume{
+
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+
+}
